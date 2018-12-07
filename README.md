@@ -86,9 +86,13 @@ Age group of 25-40 is most active on the internet.
 
 #### Which gender has clicked more on online ads?
 
-Based on above data we can see that a greater number of females have clicked on ads compared to male.
+Based on below data we can see that a greater number of females have clicked on ads compared to male.
 
 <img width="261" alt="screen shot 2018-12-06 at 6 19 38 pm" src="https://user-images.githubusercontent.com/22437872/49623712-94f64680-f983-11e8-8572-ac20a0239c4d.png">
 
 
+#### Maximum number of internet users belong to which country in the given dataset?
 
+Based on the below dataframe we can observe that maximum number of users are from France and Czech.
+
+<img width="449" alt="screen shot 2018-12-06 at 6 24 10 pm" src="https://user-images.githubusercontent.com/22437872/49623842-28c81280-f984-11e8-913f-4c7c0c6611cb.png">
