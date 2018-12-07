@@ -76,3 +76,8 @@ Teenagers are higher earners with age group of 25-35 earning 58k-68k.
 <img width="475" alt="screen shot 2018-12-06 at 6 13 34 pm" src="https://user-images.githubusercontent.com/22437872/49623471-adb22c80-f982-11e8-9b94-85bf14b152cd.png">
 
 
+#### Which age group is spending maximum time on the internet? 
+
+Age group of 25-40 is most active on the internet.
+
+<img width="502" alt="screen shot 2018-12-06 at 6 17 39 pm" src="https://user-images.githubusercontent.com/22437872/49623610-3d57db00-f983-11e8-86e5-1b0bb624ffb8.png">
