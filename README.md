@@ -96,3 +96,18 @@ Based on below data we can see that a greater number of females have clicked on 
 Based on the below dataframe we can observe that maximum number of users are from France and Czech.
 
 <img width="449" alt="screen shot 2018-12-06 at 6 24 10 pm" src="https://user-images.githubusercontent.com/22437872/49623842-28c81280-f984-11e8-913f-4c7c0c6611cb.png">
+
+
+### Logistic Regression
+
+#### Why we used Logistic Regression? 
+
+Logistic Regression is that it is incredibly easy to implement and very efficient to train.
+
+So it's always better start with a Logistic Regression model as a benchmark and try using more complex algorithms from there on.Convenient probability scores for observations
+
+#### What accuracy are we getting from Logistic Regression? 
+
+<img width="586" alt="screen shot 2018-12-06 at 6 27 55 pm" src="https://user-images.githubusercontent.com/22437872/49624005-b572d080-f984-11e8-8571-458df1dd012f.png">
+
+
