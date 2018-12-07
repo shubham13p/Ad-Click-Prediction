@@ -69,6 +69,10 @@ We observe that the oldest person in the dataset is 61 years old and the younges
 <img width="615" alt="screen shot 2018-12-06 at 6 08 30 pm" src="https://user-images.githubusercontent.com/22437872/49623323-08975400-f982-11e8-9a6d-f2c6f8af5e8f.png">
 
 
+#### What is the income distribution in different age groups? 
 
+Teenagers are higher earners with age group of 25-35 earning 58k-68k.
+
+<img width="475" alt="screen shot 2018-12-06 at 6 13 34 pm" src="https://user-images.githubusercontent.com/22437872/49623471-adb22c80-f982-11e8-9b94-85bf14b152cd.png">
 
 
