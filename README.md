@@ -48,3 +48,25 @@ Country: Country of consumer
 We have done preliminary EDA(mention below) and we are planning to do more insight as we progress.
 
 
+### Cleaning and Approaches
+
+Considering the 'Advertisement Topic Line', we decided to drop it. In any case, it if we need to extract any form of interesting data from it, we can use Natural Language Processing. 
+
+As to 'City' and the 'Nation', we can supplant them by dummy variables with numerical features, Nonetheless, along these lines we got such a large number of new highlights. 
+
+Another methodology would be thinking about them as a categorical features and coding them in one numeric element. 
+Changing 'Timestamp' into numerical value is more complicated. So, we can change ‘Timestamp’ to numbers or convert them to spaces of time/day and consider it to be categorical and afterwards we converted it into numerical values. And we selected the month and the hour from the timestamp as features. 
+
+
+### Exploratory Data Analysis 
+
+We came up with some interesting questions on the dataset and we tried to find answers for the same during EDA process.
+
+#### What age group does the dataset majorly consist of? 
+
+We observe that the oldest person in the dataset is 61 years old and the youngest person is 19 years old and the average age as per dataset is 36 years old. 
+
+
+
+
+
