@@ -102,9 +102,7 @@ Based on the below dataframe we can observe that maximum number of users are fro
 
 #### Why we used Logistic Regression? 
 
-Logistic Regression is that it is incredibly easy to implement and very efficient to train.
-
-So it's always better start with a Logistic Regression model as a benchmark and try using more complex algorithms from there on.Convenient probability scores for observations
+Logistic Regression is incredibly easy to implement and very efficient to train. So, it's always better start with a Logistic Regression model as a benchmark and try using more complex algorithms from there on. Convenient probability scores for observations
 
 #### What accuracy are we getting from Logistic Regression? 
 
