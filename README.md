@@ -109,3 +109,43 @@ Logistic Regression is incredibly easy to implement and very efficient to train.
 <img width="586" alt="screen shot 2018-12-06 at 6 27 55 pm" src="https://user-images.githubusercontent.com/22437872/49624005-b572d080-f984-11e8-8571-458df1dd012f.png">
 
 
+### Decision Tree
+
+#### Why we used Decision Tree?  
+
+Decision Trees are very flexible, easy to understand, and easy to debug.
+Decision trees implicitly perform variable screening or feature selection
+Nonlinear relationships between features do not affect tree performance
+
+#### What accuracy are we getting from Decision Tree?  
+
+<img width="722" alt="screen shot 2018-12-06 at 6 38 13 pm" src="https://user-images.githubusercontent.com/22437872/49624411-2797e500-f986-11e8-982d-a7af00ccf660.png">
+
+
+### Naive Bayes
+
+#### Why we used Naïve Bayes ? 
+
+Work well with small dataset compared to DT which need more data.
+Lesser overfitting.
+Smaller in size and faster in processing.
+
+#### What accuracy are we getting from Naïve Bayes?
+
+<img width="586" alt="screen shot 2018-12-06 at 6 40 07 pm" src="https://user-images.githubusercontent.com/22437872/49624467-6463dc00-f986-11e8-84e6-02159800805a.png">
+
+
+
+### Comparing Various Models
+
+#### Logistic Regression VS Naïve Bayes VS Decision Tree: 
+
+We conclude that Naive Bayes Algorithm gives us the maximum accuracy for determining the click probability.
+
+#### Why Naive Bayes is better ? 
+
+A Naive Bayes classifier will converge quicker than discriminative models like logistic regression, so you need less training data. Since we have smaller dataset, that is the reason we have got higher accuracy for Naive Bayes.
+
+
+
+
