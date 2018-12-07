@@ -81,3 +81,14 @@ Teenagers are higher earners with age group of 25-35 earning 58k-68k.
 Age group of 25-40 is most active on the internet.
 
 <img width="502" alt="screen shot 2018-12-06 at 6 17 39 pm" src="https://user-images.githubusercontent.com/22437872/49623610-3d57db00-f983-11e8-86e5-1b0bb624ffb8.png">
+
+
+
+#### Which gender has clicked more on online ads?
+
+Based on above data we can see that a greater number of females have clicked on ads compared to male.
+
+<img width="261" alt="screen shot 2018-12-06 at 6 19 38 pm" src="https://user-images.githubusercontent.com/22437872/49623712-94f64680-f983-11e8-8572-ac20a0239c4d.png">
+
+
+
