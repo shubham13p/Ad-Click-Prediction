@@ -147,5 +147,7 @@ We conclude that Naive Bayes Algorithm gives us the maximum accuracy for determi
 A Naive Bayes classifier will converge quicker than discriminative models like logistic regression, so you need less training data. Since we have smaller dataset, that is the reason we have got higher accuracy for Naive Bayes.
 
 
+### Conclusion 
 
+Comparing all the above implementation models, we conclude that Naive Bayes Algorithm gives us the maximum accuracy for determining the click  probability. We believe in future there will be fewer ads, but they will be more relevant. And also these ads will cost more and will be worth it. 
 
