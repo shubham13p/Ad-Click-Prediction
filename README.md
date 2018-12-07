@@ -16,3 +16,27 @@ Few assumptions made as a part of this project is:
 2)	There is almost equal ratio of male and female internet users. 
 3)	The ad topic is limited to what is given in the dataset. 
 
+### Challenges Faced:
+
+We are highly motivated to work on Ad click prediction dataset, few challenges in this area of study is:
+
+1)	There is very less publicly available data set for ad click. 
+
+2)	New online ads that are coming up is not targeted to a particular set of users, using our prediction algorithm study companies will be able to target it to particular set of users.
+
+
+### Data Set
+
+The dataset consists of below features:
+
+● Daily Time Spent on Site: consumer time on site in minutes
+● Age: Customer age in years
+● Area Income: Avg. Income of geographical area of consumer
+● Daily Internet Usage: Avg. minutes a day consumer is on the internet
+● Ad Topic Line: Headline of the advertisement
+● City: City of consumer
+● Male: Whether or not consumer was male
+● Country: Country of consumer
+
+We have done preliminary EDA(mention below) and we are planning to do more insight as we progress.
+
