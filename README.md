@@ -29,14 +29,22 @@ We are highly motivated to work on Ad click prediction dataset, few challenges i
 
 The dataset consists of below features:
 
-● Daily Time Spent on Site: consumer time on site in minutes
-● Age: Customer age in years
-● Area Income: Avg. Income of geographical area of consumer
-● Daily Internet Usage: Avg. minutes a day consumer is on the internet
-● Ad Topic Line: Headline of the advertisement
-● City: City of consumer
-● Male: Whether or not consumer was male
-● Country: Country of consumer
+Daily Time Spent on Site: consumer time on site in minutes
+
+Age: Customer age in years
+
+Area Income: Avg. Income of geographical area of consumer
+
+Daily Internet Usage: Avg. minutes a day consumer is on the internet
+
+Ad Topic Line: Headline of the advertisement
+
+City: City of consumer
+
+Male: Whether or not consumer was male
+
+Country: Country of consumer
 
 We have done preliminary EDA(mention below) and we are planning to do more insight as we progress.
+
 
