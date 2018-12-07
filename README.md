@@ -66,6 +66,8 @@ We came up with some interesting questions on the dataset and we tried to find a
 
 We observe that the oldest person in the dataset is 61 years old and the youngest person is 19 years old and the average age as per dataset is 36 years old. 
 
+<img width="615" alt="screen shot 2018-12-06 at 6 08 30 pm" src="https://user-images.githubusercontent.com/22437872/49623323-08975400-f982-11e8-9a6d-f2c6f8af5e8f.png">
+
 
 
 
